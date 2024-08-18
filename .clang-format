@@ -1,2 +1,5 @@
 IndentWidth: 4
+Language: Cpp
 BasedOnStyle: Google
+AllowShortFunctionsOnASingleLine: false
+SeparateDefinitionBlocks: Always
