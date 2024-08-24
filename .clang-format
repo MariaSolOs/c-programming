@@ -4,3 +4,4 @@ BasedOnStyle: Google
 AllowShortBlocksOnASingleLine: Empty
 AllowShortFunctionsOnASingleLine: false
 SeparateDefinitionBlocks: Always
+AlignArrayOfStructures: Left
