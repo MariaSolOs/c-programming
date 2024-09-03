@@ -69,9 +69,9 @@ int main(void) {
                 break;
         }
 
-        if (d2 == 0) {
+        if (d1 == 0 && d2 == 0) {
             printf("zero");
-        } else if (d1 > 0) {
+        } else if (d1 > 0 && d2 > 0) {
             printf("-");
         }
 
